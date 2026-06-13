@@ -26,3 +26,6 @@ It was made to funtion as a gamepad/gamecontroller.
 Everything fits together using 4 M3 Screws and heatset inserts. It uses sandwich mounting style.
 It has 2 separate printed pieces. The Case where the PCB sits, and the top Plate. 
 The Case must be printed with a transparent acrylic or resin or transparent FDM for the best original results.
+
+![CAD Model Assembled](/assets/cad model assembled view.jpg)
+
