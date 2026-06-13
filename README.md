@@ -27,5 +27,5 @@ Everything fits together using 4 M3 Screws and heatset inserts. It uses sandwich
 It has 2 separate printed pieces. The Case where the PCB sits, and the top Plate. 
 The Case must be printed with a transparent acrylic or resin or transparent FDM for the best original results.
 
-![CAD Model Assembled](/assets/cad model assembled view.jpg)
+![CAD Model Assembled](<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/1e639360-954a-4115-be22-222ac86149ec" />)
 
