@@ -1,0 +1,56 @@
+{
+    "manufacturer": "nemo",
+    "keyboard_name": "nemos_hackpad",
+    "maintainer": "adonutartist",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder_map": true,
+        "encoder": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "cols": ["GP6", "GP7", "GP8"],
+        "rows": ["GP0", "GP1", "GP2", "GP3"]
+    },
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP9",
+                "pin_b": "GP11"
+            }
+        ]
+    },
+    "processor": "RP2040",
+    "url": "https://github.com/adonutartist/Nemos-Hackpad-DONUT-PAD",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1},
+
+                {"matrix": [2, 0], "x": 0, "y": 2},
+                {"matrix": [2, 1], "x": 1, "y": 2},
+                {"matrix": [2, 2], "x": 2, "y": 2},
+
+                {"matrix": [3, 0], "x": 0, "y": 3},
+                {"matrix": [3, 1], "x": 1, "y": 3},
+                {"matrix": [3, 2], "x": 2, "y": 3},
+            ]
+        }
+    }
+}
