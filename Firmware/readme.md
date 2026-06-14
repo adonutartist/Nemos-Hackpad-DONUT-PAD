@@ -1,10 +1,10 @@
 # DONUT PAD :O
 
-![DONUT PAD :O](<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />)
+![DONUT PAD :O]<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />
 
-*A short description of the keyboard/project*
+*Donut Pad is a 12 key macropad with a rotary encoder and an OLED Display. It uses QMK firmware. It was made to function as a gamepad/gamecontroller.*
 
-* Keyboard Maintainer: [nemo](https://github.com/adonutartist)
+* Keyboard Maintainer: [Nemo Donut](https://github.com/adonutartist)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
