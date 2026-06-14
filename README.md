@@ -26,7 +26,7 @@ It was made to function as a gamepad/gamecontroller.
 Everything fits together using 4 M3 Screws and heatset inserts. It uses sandwich mounting style.
 It has 2 separate printed pieces. The Case Shell where the PCB sits, and the Case Top Plate. 
 
-The Case Shell is designed to be transparent, allowing the internal PCB to remain visible. Make sure to use Clear resin printing (recommended)/ Transparent acrylic/ Transparent FDA for the best original results.
+The Case Shell is designed to be transparent, allowing the internal PCB to remain visible. Make sure to use Clear Resin printing (recommended)/ Transparent FDA for the best original results.
 
 The Case Top Plate holds all keyholes, hole for OLED display and hole for the rotary encoder. It features a black body with gold cut accents inspired by Kintsugi, the japanese art of repairing broken pottery with gold. 
 
@@ -75,5 +75,5 @@ I might add more stuff in the future! That's it for now.
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
 - PCB
-- 1x 3D printed Transparent case shell (Resin/Acrylic/Transparent FDA)
+- 1x 3D printed Transparent case shell (Clear Transparent Resin/Transparent FDA)
 - 1x 3D printed Kintsugi inspired case plate
