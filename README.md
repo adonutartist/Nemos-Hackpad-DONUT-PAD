@@ -1,6 +1,6 @@
 # DONUT PAD :O
 DonutPad is a 12 key macropad with a rotary encoder and an OLED Display. It uses QMK firmware.
-It was made to funtion as a gamepad/gamecontroller.
+It was made to function as a gamepad/gamecontroller.
 
 ## Features:
 - 12 Mechanical Keys
