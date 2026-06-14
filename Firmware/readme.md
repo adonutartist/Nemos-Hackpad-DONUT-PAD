@@ -1,6 +1,6 @@
 # DONUT PAD :O
 
-![DONUT PAD :O]<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />
+<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />
 
 *Donut Pad is a 12 key macropad with a rotary encoder and an OLED Display. It uses QMK firmware. It was made to function as a gamepad/gamecontroller.*
 
