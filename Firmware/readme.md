@@ -1,6 +1,6 @@
-# nemos_hackpad
+# DONUT PAD :O
 
-![nemos_hackpad](imgur.com image replace me!)
+![DONUT PAD :O](<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />)
 
 *A short description of the keyboard/project*
 
