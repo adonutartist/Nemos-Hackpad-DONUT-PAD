@@ -1,10 +1,10 @@
-# nemos_hackpad
+# DONUT PAD :O
 
-![nemos_hackpad](imgur.com image replace me!)
+<img width="612" height="511" alt="cad model assembled view" src="https://github.com/user-attachments/assets/ad3508e2-c4bf-4b14-9ec9-6a4476d5c22b" />
 
-*A short description of the keyboard/project*
+*Donut Pad is a 12 key macropad with a rotary encoder and an OLED Display. It uses QMK firmware. It was made to function as a gamepad/gamecontroller.*
 
-* Keyboard Maintainer: [nemo](https://github.com/adonutartist)
+* Keyboard Maintainer: [Nemo Donut](https://github.com/adonutartist)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
@@ -16,7 +16,7 @@ Flashing example for this keyboard:
 
     make nemos_hackpad:default:flash
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
 ## Bootloader
 
