@@ -10,6 +10,10 @@
 
 ---
 
+DEMO VIDEO: https://youtube.com/shorts/37Y9ueW4ZXs?feature=share
+
+---
+
 ## About
 
 Donut Pad is a 12 key macropad with a rotary encoder and an OLED display, built to function as a gamepad/game controller. It runs using a custom KiCad-designed PCB, and sits inside a integrated plate mounted case topped with a Kintsugi inspired plate with gold/silver cut accents.
