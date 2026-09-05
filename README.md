@@ -4,7 +4,7 @@
 
 *A 12-key macropad with a rotary encoder and OLED display, built for Hack Club's Stardance YSWS.*
 
-<img width="612" height="511" alt="Donut Pad assembled view" src="https://github.com/user-attachments/assets/1e639360-954a-4115-be22-222ac86149ec" />
+<img width="1414" height="2000" alt="Copy of White Creative Project Cover Page" src="https://github.com/user-attachments/assets/1781746b-e17b-464b-bd36-734843ff5888" />
 
 </div>
 
@@ -112,6 +112,39 @@ WIP preview of the OLED animation:
 <img width="640" height="160" alt="1000240318" src="https://github.com/user-attachments/assets/ded0655c-8cc6-48af-a0f1-f3dd0a463a3c" />
 
 I might add more stuff in the future! That's it for now.
+
+---
+
+## Gallery
+
+<table>
+<tr>
+<td width="50%">
+<img width="3264" height="1840" alt="IMG_20260905_141733" src="https://github.com/user-attachments/assets/01f73528-bd16-4f6b-bd68-53d85b8e939c" />
+</td>
+<td width="50%">
+<img width="3264" height="1840" alt="IMG_20260905_141751" src="https://github.com/user-attachments/assets/f522d139-001d-4d8d-ac51-e1ac52a54699" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img width="3264" height="1840" alt="IMG_20260905_141802" src="https://github.com/user-attachments/assets/6508a93b-6058-492a-ac41-65a706adbdad" />
+</td>
+<td width="50%">
+<img width="3264" height="1840" alt="IMG_20260905_141846" src="https://github.com/user-attachments/assets/8316ef60-64c3-4809-a8b0-74d0b74fd22b" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img width="1080" height="1920" alt="Snapchat-1131476981" src="https://github.com/user-attachments/assets/da655dbf-ac90-474a-b77d-5d0c6fdac3e8" />
+</td>
+<td width="50%">
+<img width="1080" height="1920" alt="Snapchat-2125285501" src="https://github.com/user-attachments/assets/96cbfe74-6b1d-4e10-b2ac-51132587c2bb" />
+</td>
+</tr>
+</table>
 
 ---
 
